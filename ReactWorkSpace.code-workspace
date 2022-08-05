@@ -1,0 +1,64 @@
+{
+	"folders": [
+		{
+			"path": "../ReactProjects/newReactProject/FoodAppReact"
+		},
+		{
+			"path": "../ReactProjects/newReactProject/ClassWithReactApp/classwithreactapp"
+		},
+		{
+			"path": "../ReactProjects/newReactProject/news-ui-react"
+		},
+		{
+			"path": "../ReactProjects/newReactProject/functional-react-news"
+		},
+		{
+			"path": "../ReactProjects/newReactProject/mobile-plans"
+		},
+		{
+			"path": "../ReactProjects/newReactProject/plan-data-app"
+		},
+		{
+			"path": "../ReactProjects/newReactProject/react-counter"
+		},
+		{
+			"path": "../project3/RevatureEliteBanking/FrontEnd"
+		},
+		{
+			"path": "../codingPractice/bank-of-code-react"
+		},
+		{
+			"path": "../ReactProjects/newReactProject/redux-app"
+		},
+		{
+			"path": "../ReactProjects/newReactProject/redux-counter"
+		},
+		{
+			"path": "../ReactProjects/newReactProject/redux-refresher"
+		},
+		{
+			"path": "../AngularPracticeProjects/mCart"
+		},
+		{
+			"path": "../AngularPracticeProjects/MyCart"
+		},
+		{
+			"path": "../ProjectRevature/project3Backup/project3/RevatureEliteBanking/FrontEnd"
+		},
+		{
+			"path": "../AngularPracticeProjects/practiceAngular"
+		},
+		{
+			"path": "../AngularPracticeProjects/BackendCode"
+		},
+		{
+			"path": "../AngularPracticeProjects/nodePractice"
+		},
+		{
+			"path": "../AngularPracticeProjects/nodePackagePublish"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nodePractice"
+	}
+}
