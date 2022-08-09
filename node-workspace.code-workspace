@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "TestApp"
+		},
+		{
+			"path": "AdventureTrails"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AdventureTrails"
+	}
+}
